@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
+#define endl "\n"
 #define fast_cin() ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL)
 const ll MOD = 1e9 + 7;
 
@@ -13,11 +14,6 @@ void solution(){
 
 int main(){
     fast_cin();
-    ll t ;
-    cin>>t;
-    while(t--){
-        solution();
-        cout<<"\n";
-    }
+    solution();
     return 0;
 }

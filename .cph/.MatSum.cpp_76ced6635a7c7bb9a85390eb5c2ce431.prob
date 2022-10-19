@@ -1,0 +1,1 @@
+{"name":"Local: MatSum","url":"c:\\Users\\ADITYA\\Desktop\\competetive-programming\\MatSum.cpp","tests":[{"id":1665660446881,"input":"3\n3\n10 20 30\n40 50 60\n70 80 90","output":"10 60 150 140 90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADITYA\\Desktop\\competetive-programming\\MatSum.cpp","group":"local","local":true}
